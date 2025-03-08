@@ -1,4 +1,4 @@
-Made by: @Hacker
+Made by: @Hacker // Aayush
 
 Repository link: https://github.com/aayush-ojha/stratos
 
