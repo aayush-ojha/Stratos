@@ -2,7 +2,7 @@ Made by: @Hacker
 
 Repository link: https://github.com/aayush-ojha/stratos
 
-Total hours so far: 0
+Total hours so far: 3
 
 - [x] I have a 3D printer or will be getting one before March 21st
 
@@ -14,6 +14,7 @@ The base machine is a CoreXY printer with 500+mm/s move speed, 30k+ acceleration
 Software-wise, Stratos runs Klipper firmware on a Raspberry Pi Zero 2W, enabling seamless integration with other automation software like OpenPNP, utilizing macros and Linux ports for a fully automated system.
 
 # Day 1 - March 8
+Total hours: 3
 Today was mostly learnigd day for 3d printers basics. I learned about how 3D printers work. What are different motion systems. What are the different components that make up these 3D printers.
 
 Sources:
